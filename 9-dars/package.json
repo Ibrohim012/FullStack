@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "*",
+    "@nestjs/mongoose": "^10.0.6",
+    "@nestjs/testing": "^10.3.10",
+    "mongoose": "^8.4.4"
+  }
+}
